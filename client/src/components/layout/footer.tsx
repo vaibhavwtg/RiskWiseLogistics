@@ -3,6 +3,8 @@ import { SITE_CONFIG } from "@/lib/constants";
 import { Facebook, Twitter, Linkedin, Youtube } from "lucide-react";
 import footerLogo from "@assets/rwt logo (2)_1754487958235.png";
 
+import rwt_logo__4_ from "@assets/rwt logo (4).png";
+
 export default function Footer() {
   return (
     <footer className="bg-rw-navy text-white py-16">
@@ -11,7 +13,7 @@ export default function Footer() {
           <div className="space-y-4">
             <div className="flex items-center space-x-3">
               <img 
-                src={footerLogo} 
+                src={rwt_logo__4_} 
                 alt="RiskWise Tech" 
                 className="h-8 w-8"
               />
