@@ -99,3 +99,7 @@ Preferred communication style: Simple, everyday language.
 - **Node.js**: JavaScript runtime with ES modules support
 - **Express.js**: Web application framework for API endpoints
 - **Connect-pg-simple**: PostgreSQL session store for Express sessions
+- **Production Deployment**: Ubuntu server with PostgreSQL, Nginx, and PM2
+- **Database**: Standard PostgreSQL with TCP/IP connections (no WebSocket)
+- **Process Management**: PM2 with clustering and auto-restart capabilities
+- **Reverse Proxy**: Nginx with SSL support and static file serving
