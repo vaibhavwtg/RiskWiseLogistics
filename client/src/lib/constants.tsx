@@ -1,7 +1,7 @@
-import riskwiseLogo from "@assets/Riskwise Tech (1)_1754471853859.png";
+import riskwiseLogo from "@assets/rwt logo_1754487160392.png";
 
 export const SITE_CONFIG = {
-  name: "RiskWise Tech",
+  name: "RiskWise Tech", 
   description: "Leading enterprise risk management software specifically designed for logistics, freight forwarding, and customs broking operations.",
   logo: riskwiseLogo,
   contact: {

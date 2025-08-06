@@ -12,7 +12,7 @@ export default function Footer() {
               <img 
                 src={SITE_CONFIG.logo} 
                 alt="RiskWise Tech" 
-                className="h-8 w-8 rounded"
+                className="h-8 w-8"
               />
               <span className="text-xl font-bold">{SITE_CONFIG.name}</span>
             </div>

@@ -21,7 +21,7 @@ export default function Navbar() {
             <img 
               src={SITE_CONFIG.logo} 
               alt="RiskWise Tech Logo" 
-              className="h-8 w-8 mr-3 rounded"
+              className="h-10 w-10 mr-3"
             />
             <span className="text-xl font-bold text-rw-navy">{SITE_CONFIG.name}</span>
           </Link>

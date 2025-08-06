@@ -243,7 +243,7 @@ Building strong relationships with:
 ## Conclusion
 Effective risk management in international freight forwarding requires a comprehensive approach that combines technology, strong partnerships, and proactive planning. By identifying potential risks early and implementing appropriate mitigation strategies, freight forwarders can protect their operations and deliver superior service to their customers.`,
         category: "Risk Management",
-        imageUrl: "https://images.unsplash.com/photo-1558618666-fbd5c2cd44ac?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
+        imageUrl: "https://images.unsplash.com/photo-1586953135850-a7f3c9d8c8e8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
         published: true,
       },
       {
