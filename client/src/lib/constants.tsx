@@ -7,7 +7,7 @@ export const SITE_CONFIG = {
   contact: {
     phone: "+61 410 663 456",
     email: "contact@riskwisetech.com",
-    address: "123 Business District, Suite 456\nEnterprise City, EC 12345"
+    address: "Unit 2, 7 Packard Ave, Castle Hill NSW 2154"
   },
   formspree: {
     endpoint: import.meta.env.VITE_FORMSPREE_ENDPOINT || "https://formspree.io/f/YOUR_FORM_ID"
