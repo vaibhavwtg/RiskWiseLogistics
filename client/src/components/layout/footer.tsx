@@ -1,6 +1,7 @@
 import { Link } from "wouter";
 import { SITE_CONFIG } from "@/lib/constants";
 import { Facebook, Twitter, Linkedin, Youtube } from "lucide-react";
+import footerLogo from "@assets/rwt logo (2)_1754487958235.png";
 
 export default function Footer() {
   return (
@@ -10,7 +11,7 @@ export default function Footer() {
           <div className="space-y-4">
             <div className="flex items-center space-x-3">
               <img 
-                src={SITE_CONFIG.logo} 
+                src={footerLogo} 
                 alt="RiskWise Tech" 
                 className="h-8 w-8"
               />
