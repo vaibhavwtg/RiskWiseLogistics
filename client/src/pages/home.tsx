@@ -2,10 +2,15 @@ import { Link } from "wouter";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Shield, TrendingUp, Users, Rocket, Play } from "lucide-react";
+import SEOHead from "@/components/seo-head";
 
 export default function Home() {
   return (
     <div>
+      <SEOHead 
+        title="RiskWise Tech - Enterprise Risk Management for Logistics"
+        description="Specialized risk management framework for freight forwarding and customs broking operations. Streamline compliance, minimize risks, and optimize logistics operations."
+      />
       {/* Hero Section */}
       <section className="bg-gradient-to-br from-rw-light to-white py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

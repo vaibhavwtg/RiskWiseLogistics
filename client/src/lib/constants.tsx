@@ -1,4 +1,4 @@
-import riskwiseLogo from "@assets/rwt logo_1754487160392.png";
+import riskwiseLogo from "@assets/rwt logo (1)_1754487714160.png";
 
 export const SITE_CONFIG = {
   name: "RiskWise Tech", 

@@ -6,6 +6,7 @@ import BlogCard from "@/components/blog/blog-card";
 import { Search } from "lucide-react";
 import { useState } from "react";
 import { BlogPost } from "@shared/schema";
+import SEOHead from "@/components/seo-head";
 
 export default function Blog() {
   const [searchTerm, setSearchTerm] = useState("");
@@ -37,6 +38,10 @@ export default function Blog() {
 
   return (
     <div>
+      <SEOHead 
+        title="Blog - RiskWise Tech Risk Management Insights"
+        description="Latest insights on risk management, compliance, and logistics from RiskWise Tech experts. Stay updated with industry trends and best practices."
+      />
       {/* Header Section */}
       <section className="py-20 bg-rw-light">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
