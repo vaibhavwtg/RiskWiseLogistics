@@ -5,7 +5,7 @@ export const SITE_CONFIG = {
   description: "Leading enterprise risk management software specifically designed for logistics, freight forwarding, and customs broking operations.",
   logo: riskwiseLogo,
   contact: {
-    phone: "+1 (555) 123-4567",
+    phone: "+61 410 663 456",
     email: "contact@riskwisetech.com",
     address: "123 Business District, Suite 456\nEnterprise City, EC 12345"
   },
