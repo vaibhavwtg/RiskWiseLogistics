@@ -13,21 +13,23 @@
   --card-foreground: hsl(20, 14.3%, 4.1%);
   --border: hsl(20, 5.9%, 90%);
   --input: hsl(20, 5.9%, 90%);
-  --primary: hsl(207, 49%, 31%);
+  /* Primary color - RiskWise Navy Blue */
+  --primary: hsl(220, 85%, 23%);
   --primary-foreground: hsl(0, 0%, 100%);
   --secondary: hsl(60, 4.8%, 95.9%);
   --secondary-foreground: hsl(24, 9.8%, 10%);
   --accent: hsl(60, 4.8%, 95.9%);
   --accent-foreground: hsl(24, 9.8%, 10%);
-  --destructive: hsl(0, 84.2%, 60.2%);
+  /* Destructive color - RiskWise Red */
+  --destructive: hsl(0, 85%, 50%);
   --destructive-foreground: hsl(60, 9.1%, 97.8%);
-  --ring: hsl(20, 14.3%, 4.1%);
+  --ring: hsl(220, 85%, 23%);
   --radius: 0.5rem;
   
   /* RiskWise Tech Brand Colors */
-  --rw-navy: hsl(207, 49%, 31%);
-  --rw-red: hsl(0, 84%, 60%);
-  --rw-gray: hsl(216, 12%, 52%);
+  --rw-navy: hsl(220, 85%, 23%);
+  --rw-red: hsl(0, 85%, 50%);
+  --rw-gray: hsl(210, 10%, 23%);
   --rw-light: hsl(220, 14%, 96%);
 }
 
@@ -42,15 +44,17 @@
   --card-foreground: hsl(0, 0%, 98%);
   --border: hsl(240, 3.7%, 15.9%);
   --input: hsl(240, 3.7%, 15.9%);
-  --primary: hsl(207, 49%, 31%);
+  /* Primary color - RiskWise Navy Blue (darker for dark mode) */
+  --primary: hsl(220, 85%, 40%);
   --primary-foreground: hsl(0, 0%, 100%);
   --secondary: hsl(240, 3.7%, 15.9%);
   --secondary-foreground: hsl(0, 0%, 98%);
   --accent: hsl(240, 3.7%, 15.9%);
   --accent-foreground: hsl(0, 0%, 98%);
-  --destructive: hsl(0, 62.8%, 30.6%);
+  /* Destructive color - RiskWise Red (darker for dark mode) */
+  --destructive: hsl(0, 75%, 45%);
   --destructive-foreground: hsl(0, 0%, 98%);
-  --ring: hsl(240, 4.9%, 83.9%);
+  --ring: hsl(220, 85%, 40%);
   --radius: 0.5rem;
 }
 
